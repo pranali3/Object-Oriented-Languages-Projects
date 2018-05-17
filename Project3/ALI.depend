@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1525549238 source:e:\sem8\c codes\ali\add.cpp
+	"ADD.h"
+	<cmath>
+
+1525550079 e:\sem8\c codes\ali\add.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525550337 e:\sem8\c codes\ali\sal.h
+	<map>
+
+1525503099 source:e:\sem8\c codes\ali\cmd.cpp
+	<iostream>
+	"cmd.h"
+	"SAL.h"
+	"LDI.h"
+	"ADD.h"
+	"XCH.h"
+	"JMP.h"
+	"JZS.h"
+	"JVS.h"
+	"DEC.h"
+	"ST.h"
+	"LDA.h"
+	"LDB.h"
+	<string>
+	<iostream>
+	<bits/stdc++.h>
+
+1525551500 e:\sem8\c codes\ali\cmd.h
+
+1525508568 e:\sem8\c codes\ali\ldi.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525508663 e:\sem8\c codes\ali\xch.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525507504 e:\sem8\c codes\ali\jmp.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525507570 e:\sem8\c codes\ali\jzs.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525507537 e:\sem8\c codes\ali\jvs.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525507481 e:\sem8\c codes\ali\dec.h
+	<string>
+	<iostream>
+	"SAL.h"
+
+1525508621 e:\sem8\c codes\ali\st.h
+	<string>
+	<iostream>
+	<map>
+	"SAL.h"
+
+1525507614 e:\sem8\c codes\ali\lda.h
+	<string>
+	<iostream>
+	<map>
+	"SAL.h"
+
+1525507638 e:\sem8\c codes\ali\ldb.h
+	<string>
+	<iostream>
+	<map>
+	"SAL.h"
+
+1525507064 source:e:\sem8\c codes\ali\dec.cpp
+	"DEC.h"
+
+1525507091 source:e:\sem8\c codes\ali\jmp.cpp
+	"JMP.h"
+
+1525507114 source:e:\sem8\c codes\ali\jvs.cpp
+	"JVS.h"
+
+1525507145 source:e:\sem8\c codes\ali\jzs.cpp
+	"JZS.h"
+
+1525549387 source:e:\sem8\c codes\ali\lda.cpp
+	"LDA.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1525549403 source:e:\sem8\c codes\ali\ldb.cpp
+	"LDB.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1525507295 source:e:\sem8\c codes\ali\ldi.cpp
+	"LDI.h"
+
+1525551462 source:e:\sem8\c codes\ali\main.cpp
+	<iostream>
+	"CMD.h"
+
+1525507319 source:e:\sem8\c codes\ali\sal.cpp
+	<iostream>
+	"SAL.h"
+
+1525507396 source:e:\sem8\c codes\ali\xch.cpp
+	"XCH.h"
+
+1525549798 source:e:\sem8\c codes\ali\st.cpp
+	"ST.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+

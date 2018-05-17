@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1524529655 source:e:\sem8\c codes\newproject\applianceptr.cpp
+	<iostream>
+	<iostream>
+	"Appliance.h"
+	"AppliancePtr.h"
+	<string.h>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	<bits/stdc++.h>
+
+1524537470 e:\sem8\c codes\newproject\appliance.h
+	<string>
+
+1524524889 e:\sem8\c codes\newproject\applianceptr.h
+	"Appliance.h"
+
+1524538659 source:e:\sem8\c codes\newproject\ll.cpp
+	<iostream>
+	<fstream>
+	"LL.h"
+	<string>
+	<bits/stdc++.h>
+
+1524536642 e:\sem8\c codes\newproject\ll.h
+	<iostream>
+	<string.h>
+	"AppliancePtr.h"
+
+1524533369 source:e:\sem8\c codes\newproject\main.cpp
+	"Appliance.h"
+	"AppliancePtr.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	"LL.h"
+	<bits/stdc++.h>
+
+1524535215 source:e:\sem8\c codes\newproject\appliance.cpp
+	<iostream>
+	"Appliance.h"
+	"AppliancePtr.h"
+	<string.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<map>
+	<string>
+	<bits/stdc++.h>
+

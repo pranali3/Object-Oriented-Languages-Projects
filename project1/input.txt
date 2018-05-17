@@ -1,0 +1,7 @@
+0 DEC SUM
+1 LDI 10
+2 XCH
+3 LDI 20
+4 ADD 
+
+

@@ -1,0 +1,9 @@
+2
+Bajaj
+90000
+Dish_Washer
+C:\Pictures\pic1.png
+C:\Pictures\pic2.png
+C:\Pictures\pic3.png
+C:\Pictures\pic4.png
+C:\Pictures\pic5.png
